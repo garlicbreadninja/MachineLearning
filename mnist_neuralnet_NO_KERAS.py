@@ -1,3 +1,4 @@
+# auth: Anurag Akella / github.com/garlicbreadninja
 # This is a Neural Net I wrote when I first started learning about Neural Nets. It doesn't use Keras.
 # Although this doesn't look as simple as the Keras model, it stil works. I still have to figure out a way to save and reuse the model.
 # Imports, self-explanatory
