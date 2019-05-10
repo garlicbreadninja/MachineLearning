@@ -1,3 +1,4 @@
+# auth: Anurag Akella / github.com/garlicbreadninja
 # pretty self-explanatory, imports.
 from tensorflow import keras
 import numpy as np
