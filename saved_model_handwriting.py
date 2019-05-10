@@ -1,3 +1,5 @@
+# auth: Anurag Akella / github.com/garlicbreadninja
+# Testing the model I saved in the training .py file.
 from tensorflow import keras as k
 import numpy as np
 import matplotlib.pyplot as plt
