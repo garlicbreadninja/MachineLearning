@@ -1,3 +1,4 @@
+# auth: Anurag Akella / github.com/garlicbreadninja
 # pretty self-explanatory, imports.
 import tensorflow as tf
 import numpy as np
